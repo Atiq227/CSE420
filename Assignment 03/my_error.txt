@@ -1,0 +1,40 @@
+ 
+At line no: 16 Multiple declaration of variable a in parameter of foo
+ 
+At line 24 Multiple declaration of function z
+ 
+At line 38 variable type cannot be void
+ 
+At line 39 Multiple declaration of variable a
+ 
+At line 39 Multiple declaration of variable c
+ 
+At line 41 argument 1 type mismatch in function call: func
+ 
+At line 41 argument 2 type mismatch in function call: func
+ 
+At line no: 44 variable is of array type : c
+ 
+At line no 45 Warning: Assignment of  value into variable of int type 
+ 
+At line 47 Undeclared variable k
+ 
+At line 48 variable is not of array type: b
+ 
+At line no 49 array index is not of integer type : c
+ 
+At line 50 Operation on void type
+ 
+At line 53 Operation on void type
+ 
+At line no 54 Warning: Assignment of float value into variable of int type 
+ 
+At line 55 Modulus by 0
+ 
+At line 56 Modulus requires integer operands
+ 
+At line 58 Undeclared function: foo5
+ 
+At line 60 Undeclared variable h
+
+Total error: 19
